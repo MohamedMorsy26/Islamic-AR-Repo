@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Mosque_of_Amr_ibn_al-As" size="5.000000 3.331250" />
+    <ImageTarget name="kaaba" size="5.000000 3.500000" />
+    <ImageTarget name="NabawyOriginal" size="5.000000 6.218310" />
+    <ImageTarget name="NabawyDome" size="5.000000 6.770000" />
+    <ImageTarget name="NabawyEntrance2" size="5.000000 3.750000" />
+    <ImageTarget name="NabawyEntrance" size="5.000000 6.666667" />
+  </Tracking>
+</QCARConfig>

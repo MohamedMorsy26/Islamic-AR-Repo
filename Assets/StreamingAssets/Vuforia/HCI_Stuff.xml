@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="QuarterKilo" size="5.000000 5.000000" />
+    <ImageTarget name="OneKilo" size="5.000000 5.000000" />
+    <ImageTarget name="halfKilo" size="5.000000 5.000000" />
+    <ImageTarget name="Ace_4_Heart" size="5.000000 7.117904" />
+    <ImageTarget name="Ace_3_Club" size="5.000000 6.960784" />
+    <ImageTarget name="Ace_2_Spade" size="5.000000 6.968085" />
+    <ImageTarget name="Ace_1_Diamond" size="5.000000 7.150350" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,25 @@
+{
+    "monuments": [
+            {
+                "name":"Al-Masjid Al-Nabawy",
+                "time": "Built 1 year after hijra",
+                "constructor": "Built by Prophet Muhammed",
+                "location": "Location: Al Haram, Medina, Saudi Arabia",
+                "wikipediaLink": "https://en.wikipedia.org/wiki/Al-Masjid_an-Nabawi"
+            },
+            {
+                "name":"Amr ibn al-As Mosque",
+                "time": "Built in the year 641-642 AD",
+                "constructor": "Built by General Amr ibn as-As",
+                "location": "Location: Old Cairo, Cairo, Egypt",
+                "wikipediaLink": "https://en.wikipedia.org/wiki/Amr_ibn_al-As_Mosque"
+            },
+            {
+                "name":"Kaaba",
+                "time": "Built in the year 608 CE",
+                "constructor": "Built by Prophets Ibrahim and Ismail",
+                "location": "Location: Mecca, Hejaz, Saudi Arabia",
+                "wikipediaLink": "https://en.wikipedia.org/wiki/Kaaba"
+            }
+    ]
+}
